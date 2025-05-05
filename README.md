@@ -63,3 +63,15 @@ Option to retrain the model on sample data.
 Expanded diagnosis with multiple possible outcomes.
 
 Model training fallback if no model file is found.
+
+
+ New Features Summary:
+Severity sliders (0–1) for more nuanced input.
+
+Fallback training if model is missing.
+
+Retrain button for dynamic training.
+
+Expanded diagnoses including a third condition ("Allergy").
+
+Streamlit UI improvements (icons, layout settings).
