@@ -52,3 +52,14 @@ Symptoms selected: fever, cough
 Model Output:
 
 Predicted Condition: Cold or Flu (depending on symptoms selected).
+
+
+Here's an enhanced version of your Streamlit app with new features, including:
+
+Symptom severity sliders (instead of just checkboxes).
+
+Option to retrain the model on sample data.
+
+Expanded diagnosis with multiple possible outcomes.
+
+Model training fallback if no model file is found.
